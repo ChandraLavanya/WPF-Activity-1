@@ -1,0 +1,15 @@
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\bin\Debug\DPSPracticeExamples.exe.config
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\bin\Debug\DPSPracticeExamples.exe
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\bin\Debug\DPSPracticeExamples.pdb
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.csprojAssemblyReference.cache
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\MainWindow.g.cs
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\App.g.cs
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples_MarkupCompile.cache
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples_MarkupCompile.lref
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\MainWindow.baml
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.g.resources
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.Properties.Resources.resources
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.csproj.GenerateResource.cache
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.csproj.CoreCompileInputs.cache
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.exe
+D:\POC\DPSPracticeExamples\DPSPracticeExamples\obj\Debug\DPSPracticeExamples.pdb
